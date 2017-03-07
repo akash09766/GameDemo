@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameDemo</string>
+
+    <string name="game_over">Game Over</string>
+    <string name="play_again_msg">Do you want to play again?</string>
+
+    <string name="dialog_ok">Yes</string>
+    <string name="dialog_cancel">No</string>
+
+
+</resources>
